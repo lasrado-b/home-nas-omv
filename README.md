@@ -57,15 +57,6 @@ I'm transitioning into the IT and cybersecurity field and built this NAS to:
 
 ---
 
-## 📁 Repo Structure
-/
-├── README.md
-├── docs/
-│ ├── screenshots
-│ └── config-samples.md
-
----
-
 ## 🔗 Related Skills
 
 - Linux CLI & configuration
