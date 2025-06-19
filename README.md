@@ -9,7 +9,7 @@ A self-hosted Network Attached Storage (NAS) built from a repurposed Lenovo lapt
 - **Hardware**: Lenovo Y580 (Intel i7, 8GB RAM, 1TB HDD)
 - **NAS OS**: OpenMediaVault 7 (Debian-based)
 - **Storage**: 1TB EXT4 filesystem shared via SMB
-- **Access**: Static IP, Web GUI, mapped network drive, SSH
+- **Access**: DHCP Reservation, Web GUI, mapped network drive, SSH
 - **Use Case**: File storage, system monitoring, home lab experience
 
 ---
@@ -19,7 +19,7 @@ A self-hosted Network Attached Storage (NAS) built from a repurposed Lenovo lapt
 - ✅ OpenMediaVault installed on USB to free full 1TB disk for storage
 - ✅ SMB/CIFS file sharing to Windows and Linux clients
 - ✅ SMART monitoring with weekly short and monthly long self-tests
-- ✅ Static IP setup for persistent network access
+- ✅ DHCP Reservation setup for persistent network access
 - ✅ Web interface customized with monitoring widgets
 - ✅ Lid-close behavior changed to keep NAS running
 - ✅ Drive mapped on Windows laptop as a persistent network drive
